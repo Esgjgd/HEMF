@@ -1,5 +1,5 @@
 # HEMF
-This repository provides the supplementary code and data to the paper entitled "**HEMF: Hierarchical Enhanced Multi-scale Feature Extraction and Fusion Network for Medical Image Classification**".  
+This repository provides the supplementary code and data to the paper entitled "***HEMF: Hierarchical Enhanced Multi-scale Feature Extraction and Fusion Network for Medical Image Classification***".  
 
 Paper link: to be uploaded...  
 
@@ -25,7 +25,7 @@ Others:
 * [DropPath](./DropPath.py)
 * [LayerNorm](./LayerNorm.py)
 
-Unofficial implementation of **CAME**:  
+Unofficial implementation of ***CAME***:  
 
 * [baseline_CAME](./baseline_CAME)  
 
