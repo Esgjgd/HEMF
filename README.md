@@ -25,7 +25,7 @@ Others:
 * [DropPath](./DropPath.py)
 * [LayerNorm](./LayerNorm.py)
 
-Unofficial implementation of CAME:  
+Unofficial implementation of **CAME**:  
 
 * [baseline_CAME](./baseline_CAME)  
 
