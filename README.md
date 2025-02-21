@@ -1,7 +1,7 @@
 # HEMF
 This repository provides the supplementary code and data to the paper entitled "HEMF: Hierarchical Enhanced Multi-scale Feature Extraction and Fusion Network for Medical Image Classification".  
-(论文链接)  
-Authors: Jingdong He, xxxx....  
+Paper link: to be uploaded  
+Authors: Jingdong He, ....  
 
 ## Model details
 ### Overview
@@ -11,21 +11,23 @@ Authors: Jingdong He, xxxx....
 ### Hierarchical Enhanced Feature Fusion Block
 ![](./images/HEF.png)
 ### Code implementation
-main components:  
+Main components:  
 * [HEMF](./main_model.py)
 * [ELF_block](./ELF_block.py)
 * [EGF_block](./EGF_block.py)
 * [HEF_block](./HEF_block.py)
 
-others:  
+Others:  
 * [MHEA](./MHEA.py)
 * [Conv](./Conv.py)
 * [DropPath](./DropPath.py)
 * [LayerNorm](./LayerNorm.py)
 
-unofficial implementation of CAME:  
-[CAME: Convolution and Attention Construct Multi-Scale Neural Network Efficiently for Medical Image Classification](https://ieeexplore.ieee.org/abstract/document/10394558)
-* [baseline_CAME](./baseline_CAME)
+Unofficial implementation of CAME:  
+
+[baseline_CAME](./baseline_CAME)  
+
+Paper link:  [CAME: Convolution and Attention Construct Multi-Scale Neural Network Efficiently for Medical Image Classification](https://ieeexplore.ieee.org/abstract/document/10394558)
 
 ## Experimental environment
 ### Platfrom
@@ -44,6 +46,7 @@ Download the datasets from the following links:
 
 Use [preprocess_dataset.ipynb](./preprocess_dataset.ipynb) to set up training folders, testing folders and validation folders respectively and split them.  
 Take ISIC2018 dataset as an example:  
+
 ```bash
 ├── training_set
 │   ├── AKIEC
@@ -85,5 +88,9 @@ Some of our codes are borrowed from:
 
 ## Citation
 If you find our code useful for your research, please consider citing our paper:  
-(引用)  
+''' bash
+
+To be uploaded
+
+'''
 
