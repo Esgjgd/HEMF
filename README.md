@@ -1,14 +1,16 @@
 # HEMF
-This repository provides the supplementary code and data to the paper entitled "HEMF: Hierarchical Enhanced Multi-scale Feature Extraction and Fusion Network for Medical Image Classification".  
-Paper link: to be uploaded  
-Authors: Jingdong He, ....  
+This repository provides the supplementary code and data to the paper entitled "**HEMF: Hierarchical Enhanced Multi-scale Feature Extraction and Fusion Network for Medical Image Classification**".  
+
+Paper link: to be uploaded...  
+
+Authors: Jingdong He.
 
 ## Model details
 ### Overview
 ![](./images/overview.png)
-### Enhanced Local Feature Block & Enhanced Global Feature Block
+### Enhanced Local Feature Block(ELF) & Enhanced Global Feature Block(EGF)
 ![](./images/ELF&EGF.png)
-### Hierarchical Enhanced Feature Fusion Block
+### Hierarchical Enhanced Feature Fusion Block(HEF)
 ![](./images/HEF.png)
 ### Code implementation
 Main components:  
@@ -25,7 +27,7 @@ Others:
 
 Unofficial implementation of CAME:  
 
-[baseline_CAME](./baseline_CAME)  
+* [baseline_CAME](./baseline_CAME)  
 
 Paper link:  [CAME: Convolution and Attention Construct Multi-Scale Neural Network Efficiently for Medical Image Classification](https://ieeexplore.ieee.org/abstract/document/10394558)
 
@@ -88,9 +90,7 @@ Some of our codes are borrowed from:
 
 ## Citation
 If you find our code useful for your research, please consider citing our paper:  
-''' bash
-
-To be uploaded
-
-'''
+```bash
+To be uploaded...
+```
 
