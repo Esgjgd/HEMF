@@ -3,7 +3,7 @@ This repository provides the supplementary code and data to the paper entitled "
 
 Paper link: to be uploaded...  
 
-Authors: Jingdong He.
+Authors: Jingdong He and Qingjun Xiao.
 
 ## Model details
 ### Overview
