@@ -3,7 +3,7 @@ This repository provides the supplementary code and data to the paper entitled "
 
 Paper link: to be uploaded...  
 
-Authors: Jingdong He, Dacheng Shi, Tie Min, Yating Xiong, Youwang Xie and Qingjun Xiao.
+Authors: Jingdong He, Dacheng Shi, Tie Min, Qiang Shi and Qingjun Xiao.
 
 ## Model details
 ### Overview
