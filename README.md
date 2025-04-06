@@ -1,6 +1,7 @@
 # HEMF
 This repository provides the supplementary code and data to the paper entitled "***HEMF: Hierarchical Enhanced Multi-scale Feature Extraction and Fusion Network for Medical Image Classification***".  
-[![DOI](https://zenodo.org/badge/936590943.svg)](https://doi.org/10.5281/zenodo.15163137)
+![Static Badge](https://img.shields.io/license-MIT-red)  
+[![DOI](https://zenodo.org/badge/936590943.svg)](https://doi.org/10.5281/zenodo.15163137)  
 
 Paper link: to be uploaded...  
 
