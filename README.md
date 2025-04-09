@@ -1,10 +1,10 @@
 # HEMF
-This repository provides the supplementary code and data to the paper entitled "***HEMF: Hierarchical Enhanced Multi-scale Feature Extraction and Fusion Network for Medical Image Classification***".  
+This repository provides the supplementary code and data to the paper entitled "***HEMF: An Adaptive Hierarchical Enhanced Multi-attention Feature Fusion Framework for Cross-scale Medical Image Classification***".  
 ![Static Badge](https://img.shields.io/badge/license-MIT-red)      [![DOI](https://zenodo.org/badge/936590943.svg)](https://doi.org/10.5281/zenodo.15163137)  
 
 Paper link: to be uploaded...  
 
-Authors: Jingdong He, Qiang Shi, Dacheng Shi, Tie Min and Qingjun Xiao.
+Authors: Jingdong He, Qiang Shi, Jun Ma, Dacheng Shi, Tie Min and Qingjun Xiao.
 
 ## Model details
 ### Overview
