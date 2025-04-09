@@ -74,13 +74,13 @@ Use [test.py](./test.py).
 ## Performance
 See [result.ipynb](./result.ipynb) for more details.
 ### Results on ISIC2018 dataset
-![](./images/confusion_matrix_ISIC2018.svg)
+![](./images/confusion_matrix_ISIC2018.png)
 ![](./images/roc_curves_ISIC2018.svg)
 ### Results on Kvasir dataset
-![](./images/confusion_matrix_Kvasir.svg)
+![](./images/confusion_matrix_Kvasir.png)
 ![](./images/roc_curves_Kvasir.svg)
 ### Results on COVID19-CT dataset
-![](./images/confusion_matrix_COVID19-CT.svg)
+![](./images/confusion_matrix_COVID19-CT.png)
 ![](./images/roc_curves_COVID19-CT.svg)
 
 ## Reference
