@@ -10,6 +10,7 @@ from torch.cuda.amp import autocast
 from utils import read_test_data, MyDataSet
 from tqdm import tqdm
 import sys
+from sklearn.metrics import cohen_kappa_score, matthews_corrcoef
 
 from main_model import CAME as create_model
 
@@ -107,7 +108,15 @@ def main(args):
                             title        = "Confusion Matrix")
     # roc
     plot_roc(y_true, y_scores, class_name)
+
+    # 25.7.7 add MCC and kappa
+    mcc = matthews_corrcoef(y_true, y_pred)
+    print("MCC:", mcc)
+
+    kappa = cohen_kappa_score(y_true, y_pred)
+    print("Cohen's kappa:", kappa)
     
+
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
